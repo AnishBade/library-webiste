@@ -1,5 +1,6 @@
 db.sqlite3
 books/__pycache__/*
+apis/__pycache__/*
 superuser.txt
 djangoproject/__pycache__/*
 library-env
